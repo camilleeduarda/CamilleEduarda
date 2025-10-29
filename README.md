@@ -2,7 +2,7 @@
 
 **`Developer FullStack`**
 
-I’m 17 years old and currently studying Systems Development. I learn quickly and constantly challenge myself to grow, finding virtue and purpose in everything I do. 
+I’m 17 years old and currently studying Systems Development. I constantly challenge myself to grow, finding virtue and purpose in everything I do.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camille-eduarda-gon%C3%A7alves-schluter-972567394/)
