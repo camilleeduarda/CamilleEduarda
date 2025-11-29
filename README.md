@@ -85,7 +85,7 @@ I’m 17 years old and currently studying Systems Development. I constantly chal
 
 <img 
     align="left" 
-    alt="TypeScript"
+    alt="MySQL"
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -103,15 +103,6 @@ I’m 17 years old and currently studying Systems Development. I constantly chal
 <br/>
 
 ### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=camilleeduarda&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
