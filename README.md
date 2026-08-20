@@ -102,14 +102,7 @@ I am 18 years old and have completed my technical education in Systems Developme
 <br/>
 <br/>
 
-### 📊 Statistics
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleeduarda&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
 
